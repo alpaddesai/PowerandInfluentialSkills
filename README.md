@@ -7,3 +7,5 @@ Confidential information is not displayed.
 Please download the executable in https://github.com/alpaddesai/CultureAndTeamBuilding/releases for details. 
 
 All images are either custom by Alpa D Desai. Copyright protection is in process.
+
+![image](teambuilding.png)
