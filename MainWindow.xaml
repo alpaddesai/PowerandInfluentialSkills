@@ -13,7 +13,9 @@
                 <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Image Margin="15,17,16,15" Source="Image1.png" Stretch="Fill"/>
+        <Image Margin="9,8,10,73" Source="Image1.png" Stretch="Fill"/>
+        <StackPanel HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="BabsonEquities" Content="Team Projects" HorizontalAlignment="Left" Margin="20,483,0,0" VerticalAlignment="Top" Width="234" Height="47" Click="BabsonEquities_Click"/>
 
     </Grid>
 </Window>

@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace CultureAndTeamBuilding
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for EquitiesProject.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class EquitiesProject : Window
     {
-        public MainWindow()
+        public EquitiesProject()
         {
             InitializeComponent();
-        }
-
-        private void BabsonEquities_Click(object sender, RoutedEventArgs e)
-        {
-            EquitiesProject EquitiesProjectObject = new EquitiesProject();
-            EquitiesProjectObject.Show();
         }
     }
 }

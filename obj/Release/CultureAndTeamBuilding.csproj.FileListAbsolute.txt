@@ -12,3 +12,5 @@ C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Rele
 C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Release\CultureAndTeamBuilding.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Release\CultureAndTeamBuilding.exe
 C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Release\CultureAndTeamBuilding.pdb
+C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Release\EquitiesProject.g.cs
+C:\Users\ADG\source\repos\CultureAndTeamBuilding\CultureAndTeamBuilding\obj\Release\EquitiesProject.baml
