@@ -8,5 +8,8 @@ Please download the executable in https://github.com/alpaddesai/CultureAndTeamBu
 
 All images are either custom by Alpa D Desai. Copyright protection is in process.
 
+## Team Building
 ![image](TeamBuilding.png)
+
+## Team Projects
 ![image](TeamProject.png)
