@@ -1,4 +1,4 @@
-# Culture And Team Building
+# Power and Influential Skills
 
 The project provides an introduction to company culture and team building. 
 
