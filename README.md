@@ -6,7 +6,7 @@ Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/PowerandInfluentialSkills/releases for details. 
 
-All images are either custom by Alpa D Desai. 
+All images are either custom by Alpa D Desai or a reference name is provided.
 
 ## Team Building
 ![image](TeamBuilding.png)
