@@ -18,4 +18,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](TestScoresApril2020.jpg)
 
 ## Undergraduate rank certificates
-![image[(RankCertificates.jpg)
+![image](RankCertificates.jpg)
