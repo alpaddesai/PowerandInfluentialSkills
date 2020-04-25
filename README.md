@@ -15,7 +15,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](TeamProject.png)
 
 ## Test Scores
-![image](TestScoresApril2020.jpg)
+![image](TestScores.jpg)
 
 ## Four year engineering degree rank certificates
 ![image](RankCertificates.png)
