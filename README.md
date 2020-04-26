@@ -18,6 +18,6 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](RankCertificates.png)
 
 ## Test Scores
-![image](TestScores.jpg)
+![image](TestScoresImage.jpg)
 
 
