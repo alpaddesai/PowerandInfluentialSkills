@@ -21,3 +21,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](TestScoresImage.jpg)
 
 
+Additional details: https://github.com/alpaddesai/ManagementConsulting
