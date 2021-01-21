@@ -12,7 +12,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](TeamBuilding.png)
 
 ## Four year engineering degree rank certificates
-![image](RankCertificates.png)
+![image](RankCertificates.jpg)
 
 ## Test Scores
 ![image](Grades.jpg)
