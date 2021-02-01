@@ -1,6 +1,6 @@
 # Power and Influential Skills
 
-The project provides an introduction to company culture and team building. 
+The project provides an introduction to organizational culture and team building. 
 
 Confidential information is not displayed.
 
