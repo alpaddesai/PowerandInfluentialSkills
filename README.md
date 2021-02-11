@@ -20,4 +20,4 @@ All images are custom by Alpa D Desai
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
+Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea 
