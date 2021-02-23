@@ -17,7 +17,4 @@ All images are custom by Alpa D Desai
 ## Test Scores
 ![image](Grades.jpg)
 
-
-![image](USCopyrightCertificateofRegistration.png)
-
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
