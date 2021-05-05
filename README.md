@@ -11,10 +11,7 @@ All images are custom by Alpa D Desai
 ## Team Building
 ![image](TeamBuilding.png)
 
-## Four year engineering degree rank certificates
-![image](RankCertificates.jpg)
-
-## Test Scores
+## Test Scores and four year engineering rank certificates
 ![image](Grades.jpg)
 
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
