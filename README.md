@@ -18,6 +18,6 @@ All images are custom by Alpa D Desai
 ![image](Bachelor's.jpg)
 
 ## Test Scores and four year engineering rank certificates
-![image](GMAT1.jpg)
+![image](GMAT1_testScore.jpg)
 
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
