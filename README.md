@@ -15,7 +15,7 @@ All images are custom by Alpa D Desai
 ![image](Grades1.jpg)
 
 ## Test Scores and four year engineering rank certificates
-![image](Bachelor's1.jpg)
+![image](Bachelor's.jpg)
 
 ## Test Scores and four year engineering rank certificates
 ![image](GMAT.jpg)
