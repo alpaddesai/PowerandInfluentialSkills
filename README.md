@@ -11,13 +11,13 @@ All images are custom by Alpa D Desai
 ## Team Building
 ![image](TeamBuilding.png)
 
-# Test Scores and four year engineering rank certificates
+## Test Scores and four year engineering rank certificates
 ![image](HighSchool.jpg)
 
-# Test Scores and four year engineering rank certificates
-![image](Bachelor's.jpg)
+## Test Scores and four year engineering rank certificates
+![image](Bachelor's1.jpg)
 
-# Test Scores and four year engineering rank certificates
+## Test Scores and four year engineering rank certificates
 ![image](GMAT.jpg)
 
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
