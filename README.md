@@ -12,7 +12,7 @@ All images are custom by Alpa D Desai
 ![image](TeamBuilding.png)
 
 ## Test Scores and four year engineering rank certificates
-![image](Grades1.jpg)
+![image](Grades_marks.jpg)
 
 ## Test Scores and four year engineering rank certificates
 ![image](Bachelor's.jpg)
