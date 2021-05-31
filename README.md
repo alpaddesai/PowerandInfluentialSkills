@@ -20,5 +20,4 @@ All images are custom by Alpa D Desai
 ## Test Scores and four year engineering rank certificates
 ![image](GMAT2.jpg)
 
-
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
