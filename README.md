@@ -21,6 +21,6 @@ All images are custom by Alpa D Desai
 ![image](GMAT2.jpg)
 
 ## Ethics and Excellence
-![image](EthicsandExcellence.png)
+![image](Ethics.png)
 
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
