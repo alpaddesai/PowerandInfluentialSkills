@@ -17,7 +17,7 @@ All images are custom by Alpa D Desai
 ## Test Scores and four year engineering rank certificates
 ![image](Bachelor's.jpg)
 
-## Time boxed health care
+## GRE / GMAT Testscores
 ![image](GREGMAT.jpg)
 
 ## Ethics and Excellence
