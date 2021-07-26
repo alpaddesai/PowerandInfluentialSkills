@@ -17,8 +17,8 @@ All images are custom by Alpa D Desai
 ## Test Scores and four year engineering rank certificates
 ![image](Bachelor's.jpg)
 
-## Quant test scores
-![image](Quant.jpg)
+### Quant test scores
+![image](QuantTestScore.jpg)
 
 ## GRE / GMAT Testscores
 ![image](GREGMAT.jpg)
