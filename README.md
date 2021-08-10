@@ -17,10 +17,10 @@ All images are custom by Alpa D Desai
 ## Undergraduate Test Scores
 ![image](Bachelor's.jpg)
 
-### Quant test scores
+### Quant Test Scores
 ![image](QuantTestScore.jpg)
 
-## GRE / GMAT Testscores
+## GRE / GMAT Test Scores
 ![image](GREGMAT.jpg)
 
 ## Ethics and Excellence
