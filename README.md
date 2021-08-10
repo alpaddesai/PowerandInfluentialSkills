@@ -26,5 +26,6 @@ All images are custom by Alpa D Desai
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
+
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
 
