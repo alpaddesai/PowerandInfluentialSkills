@@ -11,10 +11,10 @@ All images are custom by Alpa D Desai
 ## Team Building
 ![image](TeamBuilding.png)
 
-## Test Scores and four year engineering rank certificates
+## Test Scores 
 ![image](Grades_marks.jpg)
 
-## Test Scores and four year engineering rank certificates
+## Undergraduate Test Scores
 ![image](Bachelor's.jpg)
 
 ### Quant test scores
