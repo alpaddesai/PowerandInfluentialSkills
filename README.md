@@ -11,16 +11,16 @@ All images are custom by Alpa D Desai
 ## Team Building
 ![image](TeamBuilding.png)
 
-## Test Scores 
+## Official Test Scores 
 ![image](Grades_marks.jpg)
 
-## Undergraduate Test Scores
+## Official Undergraduate Test Scores
 ![image](Bachelor's.jpg)
 
-### Quant Test Scores
+### Unofficial Quant Test Scores
 ![image](QuantTestScore.jpg)
 
-## GRE / GMAT Test Scores
+## Official GRE / GMAT Test Scores
 ![image](GREGMAT.jpg)
 
 ## Ethics and Excellence
