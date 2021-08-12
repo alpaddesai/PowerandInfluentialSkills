@@ -27,4 +27,3 @@ All images are custom by Alpa D Desai
 ![image](Ethics.jpg)
 
 Further reference: https://github.com/alpaddesai/RealEstatePortfolioIdea  and https://github.com/alpaddesai/ManagementConsulting
-
