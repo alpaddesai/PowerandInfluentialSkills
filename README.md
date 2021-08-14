@@ -23,7 +23,7 @@ All images are custom by Alpa D Desai
 ![image](GREGMAT.jpg)
 
 ## Patents/Copyright Protection / Intellectual Property
-![image](USCopyrightCertificateofRegistration)
+![image](USCopyrightCertificateofRegistration.png)
 
 ## Ethics and Excellence
 ![image](Ethics.jpg)
