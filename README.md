@@ -22,6 +22,9 @@ All images are custom by Alpa D Desai
 ## Official GRE / GMAT Test Scores
 ![image](GREGMAT.jpg)
 
+## Patents/Copyright Protection / Intellectual Property
+![image](USCopyrightCertificateofRegistration)
+
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
