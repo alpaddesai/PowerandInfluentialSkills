@@ -11,7 +11,7 @@ All images are custom by Alpa D Desai
 ![image](TeamBuilding.png)
 
 ## Official Test Scores 
-![image](Grades_marks.jpg)
+![image](Grades_marks_image.jpg)
 
 ## Official Undergraduate Test Scores
 ![image](Bachelor's.jpg)
