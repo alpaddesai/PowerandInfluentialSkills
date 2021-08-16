@@ -13,7 +13,7 @@ All images are custom by Alpa D Desai
 ## Official Test Scores 
 ![image](Grades_marks_image.jpg)
 
-## Official Undergraduate Test Scores
+## Official Undergraduate Test Scores and rank certificates
 ![image](Bachelor's.jpg)
 
 ### Unofficial Quant Test Scores
