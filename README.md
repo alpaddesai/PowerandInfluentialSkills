@@ -26,3 +26,5 @@ All images are custom by Alpa D Desai
 
 ## Ethics and Excellence
 ![image](Ethics.jpg)
+
+https://github.com/alpaddesai/PowerandInfluentialSkills
