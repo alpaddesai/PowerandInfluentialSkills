@@ -26,5 +26,3 @@ All images are custom by Alpa D Desai
 
 ## Ethics and Excellence
 ![image](Ethics.jpg)
-
-Additional details reference: https://github.com/alpaddesai/HealthCare
