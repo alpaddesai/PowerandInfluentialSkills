@@ -21,7 +21,7 @@ All images are custom by Alpa D Desai
 ## Official GRE / GMAT Test Scores
 ![image](GREGMAT.jpg)
 
-## CAPM
+## Project Management Institute
 ![image](CAPM.jpg)
 
 ## Pragmatic Marketing
