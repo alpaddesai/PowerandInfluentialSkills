@@ -21,6 +21,12 @@ All images are custom by Alpa D Desai
 ## Official GRE / GMAT Test Scores
 ![image](GREGMAT.jpg)
 
+## CAPM
+![image](CAPM.jpg)
+
+## Pragmatic Marketing
+![image](PMI.jpg)
+
 ## Patents/Copyright Protection / Intellectual Property
 ![image](USCopyrightCertificateofRegistration.png)
 
