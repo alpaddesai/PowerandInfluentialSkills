@@ -22,6 +22,7 @@ All images are custom by Alpa D Desai
 ![image](GREGMAT.jpg)
 
 ## Project Management Institute
+### pearsonvue
 ![image](CAPM.jpg)
 
 ## Pragmatic Marketing
