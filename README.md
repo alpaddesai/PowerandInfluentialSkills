@@ -10,15 +10,15 @@ All images are custom by Alpa D Desai
 ![image](TeamBuilding.png)
 
 ## Official Test Scores 
-![image](Grades_marks_image.jpg)
 ### pearsonvue
+![image](Grades_marks_image.jpg)
 
 ## Top 5 Rank Certificates from the #1 Engineering College in the State '03 
-![image](Bachelor's.jpg)
 ### pearsonvue
-
+![image](Bachelor's.jpg)
 
 ### Unofficial Quant Test Scores
+### pearsonvue
 ![image](QuantTestScore.jpg)
 
 ## Official GRE / GMAT Test Scores
