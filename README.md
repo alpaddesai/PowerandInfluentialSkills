@@ -30,6 +30,7 @@ All images are custom by Alpa D Desai
 ![image](CAPM.jpg)
 
 ## Pragmatic Marketing
+### pearsonvue
 ![image](PMI.jpg)
 
 ## Patents/Copyright Protection / Intellectual Property
