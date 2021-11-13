@@ -33,9 +33,6 @@ All images are custom by Alpa D Desai
 ### pearsonvue
 ![image](PMI.jpg)
 
-## Patents/Copyright Protection / Intellectual Property
-![image](USCopyrightCertificateofRegistration.png)
-
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
