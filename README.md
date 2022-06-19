@@ -4,7 +4,7 @@ The project provides an introduction to organizational culture and team building
 ## Team Building
 ![image](TeamBuilding.png)
 
-## Official Test Scores 
+## High School 
 ### pearsonvue
 ![image](Grades_marks_image.jpg)
 
