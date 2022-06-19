@@ -12,14 +12,6 @@ The project provides an introduction to organizational culture and team building
 ### pearsonvue
 ![image](Bachelor's.jpg)
 
-### Unofficial Quant Test Scores '18
-### pearsonvue
-![image](QuantTestScore.jpg)
-
-## Official GRE / GMAT Test Scores '18
-### pearsonvue
-![image](GREGMAT.jpg)
-
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
