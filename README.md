@@ -20,14 +20,6 @@ The project provides an introduction to organizational culture and team building
 ### pearsonvue
 ![image](GREGMAT.jpg)
 
-## Project Management Institute
-### pearsonvue
-![image](CAPM.jpg)
-
-## Pragmatic Marketing
-### pearsonvue
-![image](PMI.jpg)
-
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
