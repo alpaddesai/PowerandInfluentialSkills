@@ -15,4 +15,4 @@ The project provides an introduction to organizational culture and team building
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
-https://github.com/alpaddesai/PowerandInfluentialSkills
+https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/TestScores.
