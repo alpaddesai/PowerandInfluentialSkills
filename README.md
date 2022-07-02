@@ -4,14 +4,6 @@ The project provides an introduction to organizational culture and team building
 ## Team Building
 ![image](TeamBuilding.png)
 
-## High School 
-### pearsonvue
-![image](Grades_marks_image.jpg)
-
-## Top 5 Rank Certificates from the #1 Engineering College in the State '03 
-### pearsonvue
-![image](Bachelors_Degree.jpg)
-
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
