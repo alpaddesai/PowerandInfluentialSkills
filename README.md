@@ -4,6 +4,9 @@ The project provides an introduction to organizational culture and team building
 ## Team Building
 ![image](TeamBuilding.png)
 
+## Admission Letter
+![image](admissionletter.jpg)
+
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
