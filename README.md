@@ -15,4 +15,4 @@ The project provides an introduction to organizational culture and team building
 
 ![image](USCopyrightCertificate.png)
 
-https://github.com/alpaddesai/PowerandInfluentialSkills , https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/RankCertificatesUndergraduateDegree and https://github.com/alpaddesai/TestScores
+https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea , https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/RankCertificatesUndergraduateDegree and https://github.com/alpaddesai/TestScores
