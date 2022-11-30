@@ -4,12 +4,6 @@ The project provides an introduction to organizational culture and team building
 ## Team Building
 ![image](TeamBuilding.png)
 
-## Admission Letter
-![image](admissionletter.jpg)
-
-## GMAT exam
-![image](GMATImage5.jpg)
-
 ## Ethics and Excellence
 ![image](Ethics.jpg)
 
