@@ -9,4 +9,3 @@ The project provides an introduction to organizational culture and team building
 
 ![image](USCopyrightCertificate.png)
 
-https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea 
