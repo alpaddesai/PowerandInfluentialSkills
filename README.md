@@ -9,4 +9,4 @@ The project provides an introduction to organizational culture and team building
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement2022 and https://github.com/alpaddesai/ManagingTechnologicalInnovation
+Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement2022 
