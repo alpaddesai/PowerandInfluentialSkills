@@ -9,4 +9,4 @@ The project provides an introduction to organizational culture and team building
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement
+Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
